@@ -10,6 +10,7 @@ public class RunningSum {
 			inputArr[i] = inputArr[i]+inputArr[i-1];
 		}
             System.out.println(Arrays.toString(inputArr));
+            System.out.println(Arrays.toString(inputArr));
 	}
 
 }
