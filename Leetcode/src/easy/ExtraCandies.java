@@ -15,7 +15,9 @@ public class ExtraCandies {
 			for(int i=0;i<candies.length;i++) {
 				if (max < candies[i]) {
 					values[j]=false;
+					System.out.println("hi");
 					break;
+					
 				}	
 			}	
 		}
